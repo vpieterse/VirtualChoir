@@ -1,4 +1,4 @@
-# VirtualChoir
+# VirtualRehearsal
 VirtualChoir is a software application developed to provide the infrastructure to enable virtual choir rehearsals.
 
 # Documentation
